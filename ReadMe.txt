@@ -27,3 +27,4 @@ report_BFS.txt: 广度优先算法运行结果输出文件
   在.py 文件中修改初始状态4*4的列表，即可看到不同情况下的输出结果。
 
 
+参考：https://blog.csdn.net/t949500898/article/details/107397693
